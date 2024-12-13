@@ -1,0 +1,35 @@
+{
+  "name": "banaculator",
+  "version": "1.0.0",
+  "description": "THE BANANA CALCULATOR",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinlee05/Banaculator.git"
+  },
+  "keywords": [
+    "banaculator"
+  ],
+  "author": "gyungsuLee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinlee05/Banaculator/issues"
+  },
+  "homepage": "https://github.com/justinlee05/Banaculator#readme",
+  "dependencies": {
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "@types/react": "19.0.1",
+    "typescript": "5.7.2"
+  }
+}
